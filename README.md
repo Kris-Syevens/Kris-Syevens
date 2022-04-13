@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kris-syevens&label=Profile%20views&color=0e75b6&style=flat" alt="kris-syevens" /> </p>
 
-- 🌱 I’m currently expanding my knowledge of **React**
+- 🌱 I’m currently expanding my knowledge of **React** & **TypeScript**
 
 - 👨‍💻 All of my projects are available at [www.syevens.com](www.syevens.com)
 
