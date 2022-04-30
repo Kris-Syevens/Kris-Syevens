@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently expanding my knowledge of **React** & **TypeScript**
 
-- 👨‍💻 All of my projects are available at [www.syevens.com](www.syevens.com)
+- 👨‍💻 All of my projects are available at [www.syevens.com](https://syevens.com)
 
 - 📫 How to reach me **kris@syevens.com**
 
