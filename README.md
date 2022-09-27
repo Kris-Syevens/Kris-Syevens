@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kris-syevens&label=Profile%20views&color=0e75b6&style=flat" alt="kris-syevens" /> </p>
 
-- 🔭 I’m currently working on **Bug-Zapper.**
+- 🔭 I’m currently working on my **Bug-Zapper** web application.
 
 - 👨‍💻 All of my projects are available at [syevens.com](syevens.com)
 
