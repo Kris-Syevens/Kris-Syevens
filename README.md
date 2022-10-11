@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on my **Bug-Zapper** web application.
 
-- 👨‍💻 All of my projects are available at [syevens.com](syevens.com)
+- 👨‍💻 My featured projects are available at [syevens.com](syevens.com)
 
 - 📫 How to reach me **kris@syevens.com**
 
